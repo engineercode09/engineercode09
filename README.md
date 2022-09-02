@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Data Science and Data Analyst Project
 - 💬 You can Acces my medium write on www.medium.com/@zamzam_data
 - 📫 How to reach me: zamzamistimaqom@gmail.com
-- ⚡ Fun fact: I have engineering background and have curiosity about data
+- ⚡ Fun fact: I have engineering background but have curiosity about data
 
 Thanks for Visit
 Enjoy with my Repository
