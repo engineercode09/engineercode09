@@ -1,7 +1,7 @@
 ### Hi Everyone 👋
 
 - 🔭 I’m currently aspiring data science analyst
-- 🌱 I’m currently learning Data Science Machine Learning Specialization at Rakamin Academy
+- 🌱 I have finished Data Science Machine Learning Specialization at Rakamin Academy and curently i take computer vision in Indoesia AI
 - 👯 I’m looking to collaborate on Data Science and Data Analyst Project
 - 💬 You can Acces my medium write on www.medium.com/@zamzam_data
 - 📫 How to reach me: zamzamistimaqom@gmail.com
