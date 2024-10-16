@@ -1,6 +1,6 @@
 ### Hi Everyone 👋
 
-- 🔭 I’m currently aspiring data science analyst
+- 🔭 I’m currently aworking as Procurement Data Analyst in Oil and Gas Industry
 - 🌱 I have finished Data Science Machine Learning Specialization at Rakamin Academy and curently i take computer vision in Indoesia AI
 - 👯 I’m looking to collaborate on Data Science and AI project
 - 💬 You can Acces my medium write on www.medium.com/@zamzam_data
