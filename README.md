@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Data Science and AI project
 - 💬 You can Acces my medium write on www.medium.com/@zamzam_data
 - 📫 How to reach me: zamzamistimaqom@gmail.com
-- ⚡ Fun fact: I have engineering background but have curiosity about machine learninf and AI
+- ⚡ Fun fact: I have petroleum ngineering background but have curiosity about machine learning and AI
 
 Thanks for Visit
 Enjoy with my Repository
